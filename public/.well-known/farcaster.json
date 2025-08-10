@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "BaseGuard is a Base Mini App built with Zara.",
     "iconUrl": "$NEXT_PUBLIC_URL/logo.png",
-    "homeUrl": "https://d7b4cc1f-fc09-4c0b-bb0a-81de63de6439.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "d7b4cc1ffc094c0bbb0a81de63de6439-tucr-rhta6kndy-vistara.vercel.app",
+    "splashImageUrl": "d7b4cc1ffc094c0bbb0a81de63de6439-tucr-rhta6kndy-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "d7b4cc1ffc094c0bbb0a81de63de6439-tucr-rhta6kndy-vistara.vercel.app/image.png",
     "tagline": "BaseGuard",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "d7b4cc1ffc094c0bbb0a81de63de6439-tucr-rhta6kndy-vistara.vercel.app/screenshot.png",
+      "d7b4cc1ffc094c0bbb0a81de63de6439-tucr-rhta6kndy-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "mini app",
       "onchainkit"
     ],
-    "webhookUrl": "https://d7b4cc1f-fc09-4c0b-bb0a-81de63de6439.vistara.dev/api/webhook"
+    "webhookUrl": "d7b4cc1ffc094c0bbb0a81de63de6439-tucr-rhta6kndy-vistara.vercel.app/api/webhook"
   }
 }
