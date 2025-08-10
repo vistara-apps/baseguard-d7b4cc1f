@@ -1,0 +1,14 @@
+{
+  "name": "BaseGuard",
+  "description": "BaseGuard is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://d7b4cc1f-fc09-4c0b-bb0a-81de63de6439.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "BaseGuard",
+      "description": "BaseGuard is a Base Mini App built with Zara.",
+      "url": "https://d7b4cc1f-fc09-4c0b-bb0a-81de63de6439.vistara.dev",
+      "icon": "$NEXT_PUBLIC_URL/logo.png"
+    }
+  }
+}
